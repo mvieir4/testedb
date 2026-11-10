@@ -1,0 +1,12 @@
+{
+  "name": "grupo-2-sistema-carros",
+  "version": "1.0.0",
+  "description": "Sistema CRUD de carros com JavaScript e MySQL, sem framework",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "mysql2": "^3.14.0"
+  }
+}
